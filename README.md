@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 This is a simple movie recommender system built using Streamlit, where users can select a movie from a dropdown menu and get recommendations for similar movies.
 ## Getting Started
-Prerequisites
+## Prerequisites
 Make sure you have the following dependencies installed:
 --> Python 3
 --> Streamlit
@@ -13,7 +13,7 @@ pip install streamlit pandas
 1. Clone this repository to your local machine.
 2. Navigate to the repository directory.
 3. Run the Streamlit app:
-streamlit run app.py
+---> streamlit run app.py
 4. Open your web browser and go to localhost:8501 to view the application.
 
 ## How it Works
