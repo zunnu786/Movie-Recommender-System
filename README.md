@@ -3,9 +3,9 @@ This is a simple movie recommender system built using Streamlit, where users can
 ## Getting Started
 Prerequisites
 Make sure you have the following dependencies installed:
-Python 3
-Streamlit
-Pandas
+--> Python 3
+--> Streamlit
+--> Pandas
 ## You can install Streamlit and Pandas using pip:
 pip install streamlit pandas
 
