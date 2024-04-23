@@ -24,6 +24,10 @@ The recommender system uses a collaborative filtering approach to recommend simi
 2. Click the "Recommend" button.
 3. The system will display a list of recommended movies similar to the selected movie.
 
+## Usage
+1. Select a movie from the dropdown menu.
+2. Click the "Recommend" button.
+3. The system will display a list of recommended movies similar to the selected movie.
 ## Acknowledgments
 This project is inspired by various tutorials and resources available online.
 
